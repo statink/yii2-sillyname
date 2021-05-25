@@ -3,7 +3,7 @@
  *
  * @copyright Geoff Wagstaff
  * @author Geoff Wagstaff
- * @author AIZAWA Hina <hina@bouhime.com>
+ * @author AIZAWA Hina <hina@fetus.jp>
  */
 
 (global => {
